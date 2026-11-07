@@ -1,38 +1,33 @@
-Xin chào 👋 Hi, I'm **Karmi** — Program Manager at [@myteksi](https://github.com/myteksi), based between HCMC and Singapore.
+# Xin chào, I'm Karmi Phuc
 
-<p align="left">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=6E7C8C&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=86&lines=Program+Manager+%40myteksi;Building+AI-native+tooling+for+daily+knowledge+work;HCMC+%E2%9D%96+SG+%C2%B7+coding+agent+nerd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=6E7C8C&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=86&lines=Program+Manager+%40myteksi;Building+AI-native+tooling+for+daily+knowledge+work;HCMC+%E2%9D%96+SG+%C2%B7+coding+agent+nerd" alt="Typing SVG: Program Manager @myteksi / Building AI-native tooling for daily knowledge work / HCMC ❖ SG · coding agent nerd" />
-  </a>
+**AI practitioner · Program manager · Builder of small tools**
+
+[![Connect with Karmi on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/karmiphuc/)
+
+I lead programs at [@myteksi](https://github.com/myteksi) and build with coding agents on the side. I like turning recurring work into a small tool, then writing down how it works so someone else can run it.
+
+## Selected work
+
+- **[Claude Code Mastery](https://github.com/karmiphuc/claude-code-mastery)** · A hands-on curriculum that starts with opening a terminal and ends with custom skills, hooks, and everyday workflows.
+- **[Codex Model Benchmark](https://github.com/karmiphuc/codex-models-music-video-bench)** · A harness for comparing models on the same creative brief. It saves the outputs, run data, and anonymous clips for review.
+- **[Raindrop CLI](https://github.com/karmiphuc/raindrop-cli)** · A small Python CLI for finding and saving bookmarks from the terminal using the official Raindrop.io API.
+- **[Shinobi Hollow](https://github.com/karmiphuc/remaster-ninja-village-shinobi-hollow)** · A playable pixel-art strategy game and a hands-on experiment in building with Claude Code and Codex. [Play in your browser](https://karmiphuc.github.io/remaster-ninja-village-shinobi-hollow/).
+
+## Tools I reach for
+
+![Python, TypeScript, JavaScript, Git, and GitHub Actions](https://skillicons.dev/icons?i=python,ts,js,git,githubactions)
+
+Claude Code and Codex for agent workflows, Python for small CLIs, and TypeScript and JavaScript for browser experiments.
+
+## GitHub activity
+
+<p>
+  <a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img height="145" src="https://github-readme-stats-fast.vercel.app/api?username=karmiphuc&amp;theme=github_dark&amp;hide_rank=true&amp;hide=contribs&amp;show_icons=true&amp;disable_animations=true" alt="GitHub stats including this year's commits, stars, pull requests, and issues"></a>
+  <a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img height="145" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=karmiphuc&amp;theme=github_dark&amp;layout=compact&amp;card_width=310&amp;langs_count=8&amp;disable_animations=true" alt="Language breakdown across public GitHub repositories"></a>
 </p>
 
-I lead program work at a ride-hailing super-app by day, and tinker with AI coding agents, CLI tools, and small homelab automations by night. Half the repos here are scratchpads; the other half are notes I wish I'd had earlier.
+[![Total GitHub contributions, current streak, and longest streak](https://github-readme-stats-fast.vercel.app/api/streak?username=karmiphuc&theme=github_dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
----
+[![GitHub contribution activity over the past year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karmiphuc&theme=github_dark)](https://github.com/karmiphuc#contributions)
 
-### What I'm focused on
-
-- **Strategy & programs** — long-horizon product/ops work, partnerships, and the unglamorous plumbing that keeps a regional platform running.
-- **AI-native tooling** — Claude Code workflows, agent skills, MCP-style integrations. Building the muscle of "AI-first" rather than "AI-painted-on."
-- **Dev hobbyism** — CLI utilities, dotfiles, the occasional Bannerlord mod. Anything that makes the next 30 minutes slightly less painful.
-
-### Selected work
-
-- **[claude-code-mastery](https://github.com/karmiphuc/claude-code-mastery)** — a beginner-to-power-user curriculum for Claude Code & TUI workflows. The one I'd hand to a non-engineer on day zero.
-- **[openclaw-docs-skill](https://github.com/karmiphuc/openclaw-docs-skill)** — a sanitized, public-ready skill pack for the OpenClaw CLI. Discovery-optimized for Claude-style agents.
-- **[reddit-json](https://github.com/karmiphuc/reddit-json)** — fetch Reddit posts, comments, and search results via the JSON API without the Cloudflare wall. Small skill, big leverage.
-- **[gdocs-cli](https://github.com/karmiphuc/gdocs-cli)** — read, write, and create Google Docs from the terminal. Replaces 80% of my "open the doc" friction.
-- **[learning-journey](https://github.com/karmiphuc/learning-journey)** — the long-running notes dump. Stories, advice, and things I wish I'd written down sooner.
-- **[lifehack-scripts](https://github.com/karmiphuc/lifehack-scripts)** — small Windows batch scripts that earn their keep. Currently: BitLocker unlock helpers.
-
-### Currently
-
-Shipping AI skills at myteksi · maintaining the *K-OverhaulCore* Bannerlord mod on weekends · running a Mac Mini homelab for personal automations.
-
-### Where to find me
-
-[LinkedIn](https://www.linkedin.com/in/karmiphuc/) · [karmiphuc.com](https://karmiphuc.com/) · [GitHub](https://github.com/karmiphuc)
-
----
-
-*Don't quote me on the dotfiles — they're 90% borrowed from Mathias Bynens.*
+![Profile views](https://komarev.com/ghpvc/?username=karmiphuc&style=flat-square&color=0A66C2)
