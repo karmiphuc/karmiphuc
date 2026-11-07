@@ -28,6 +28,6 @@ Claude Code and Codex for agent workflows, Python for small CLIs, and TypeScript
 
 [![Total GitHub contributions, current streak, and longest streak](https://github-readme-stats-fast.vercel.app/api/streak?username=karmiphuc&theme=github_dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-[![GitHub contribution activity over the past year](https://ghchart.rshah.org/0969da/karmiphuc)](https://github.com/karmiphuc#contributions)
+[![GitHub contribution activity over the past year](https://ghchart.rshah.org/0969da/karmiphuc)](https://github.com/karmiphuc#js-contribution-activity-description)
 
 ![Profile views](https://komarev.com/ghpvc/?username=karmiphuc&style=flat-square&color=0A66C2)
