@@ -1,10 +1,10 @@
 # Xin chào, I'm Karmi Phuc
 
-**AI practitioner · Program manager · Builder of small tools**
+**AI practitioner · Coding agents and workflow automation**
 
 [![Connect with Karmi on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/karmiphuc/)
 
-I lead programs at [@myteksi](https://github.com/myteksi) and build with coding agents on the side. I like turning recurring work into a small tool, then writing down how it works so someone else can run it.
+I build with coding agents and share what I learn. I like turning recurring work into a small tool, then writing down how it works so someone else can run it.
 
 ## Selected work
 
